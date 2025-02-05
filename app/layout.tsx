@@ -12,7 +12,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Yumi Code Bank",
-  description: "Yumi Code is a modern bankig platform for everyone",
+  description: "Yumi Code is a modern banking platform for everyone",
   icons: {icon: '/icons/logo.svg'}
 };
 
